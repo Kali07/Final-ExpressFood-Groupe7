@@ -1,0 +1,9 @@
+.app-container {
+  background-image: url("background-homepage.webp");
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+}
